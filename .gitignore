@@ -1,0 +1,19 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+# Backups/temporal
+*.tmp
+*_backup*
+*.log
+# SO
+Thumbs.db
+Desktop.ini
+# Comprimidos grandes
+*.zip
+*.rar
