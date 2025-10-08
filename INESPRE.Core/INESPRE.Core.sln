@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INESPRE.Core", "INESPRE.Core.csproj", "{240CF5F4-365E-4854-B8E1-06575C2D2B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INESPRE.Desktop", "..\INESPRE.Desktop\INESPRE.Desktop.csproj", "{6F5D52D5-5078-478A-B159-D255C3D18622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240CF5F4-365E-4854-B8E1-06575C2D2B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240CF5F4-365E-4854-B8E1-06575C2D2B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240CF5F4-365E-4854-B8E1-06575C2D2B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240CF5F4-365E-4854-B8E1-06575C2D2B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5D52D5-5078-478A-B159-D255C3D18622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5D52D5-5078-478A-B159-D255C3D18622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5D52D5-5078-478A-B159-D255C3D18622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5D52D5-5078-478A-B159-D255C3D18622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFA04B86-6A55-4164-A562-162FF3647403}
+	EndGlobalSection
+EndGlobal

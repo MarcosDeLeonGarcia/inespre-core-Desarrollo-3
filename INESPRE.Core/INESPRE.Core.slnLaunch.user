@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "INESPRE.Core.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\INESPRE.Desktop\\INESPRE.Desktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
